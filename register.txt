@@ -1,0 +1,1 @@
+// Chức năng đăng ký tài khoản: Username, Password, Email
