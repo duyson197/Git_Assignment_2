@@ -1,1 +1,3 @@
 // Chức năng đăng ký tài khoản: Username, Password, Email
+
+// Fix lỗi: Bắt buộc nhập định dạng Email chính xác
