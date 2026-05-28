@@ -2,7 +2,7 @@
 
 ## Product Backlog
 
-1. As a user, I want to create an account, so that I can access personalized features.
+1. As a user, I want to create an account, so that I can access personalized features. [Done]
 
 2. As a user, I want to log into the system, so that I can securely access my data.
 
